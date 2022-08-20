@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1560423115 source:c:\programming\cse-410-computer-graphics\offline-1\2\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\programming\cse-410-computer-graphics\offline-1\2\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1660986465 source:c:\users\romel\desktop\rt\main.cpp
+	"object.hpp"
+	"bitmap_image.hpp"
+
+1655015764 c:\users\romel\desktop\rt\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1660932286 c:\users\romel\desktop\rt\utils.hpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<fstream>
+	<vector>
+	<GL/glut.h>
+
+1654967202 c:\users\romel\desktop\rt\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1660962097 c:\users\romel\desktop\rt\vector.hpp
+	<stdio.h>
+	<iostream>
+	<cstdio>
+	<cmath>
+	<fstream>
+	<vector>
+	<GL/glut.h>
+
+1660961946 c:\users\romel\desktop\rt\color.hpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<fstream>
+	<vector>
+	<GL/glut.h>
+
+1660962154 c:\users\romel\desktop\rt\light.hpp
+	"vector.hpp"
+	"color.hpp"
+
+1660985494 c:\users\romel\desktop\rt\object.hpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<fstream>
+	<vector>
+	<GL/glut.h>
+
+1660962130 c:\users\romel\desktop\rt\ray.hpp
+	"vector.hpp"
+
+1660981778 c:\users\romel\desktop\rt\sphere.hpp
+
+1660938932 c:\users\romel\desktop\rt\triangle.hpp
+	"vector.hpp"
+	"ray.hpp"
+	"light.hpp"
+	"color.hpp"
+	"object.hpp"
+
+1660941728 c:\users\romel\desktop\rt\floor.hpp
+	"vector.hpp"
+	"ray.hpp"
+	"light.hpp"
+	"color.hpp"
+	"object.hpp"
+
